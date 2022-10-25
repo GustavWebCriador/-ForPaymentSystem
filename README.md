@@ -43,7 +43,7 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 Você pode me encontrar no Linkedin, acesse meu perfil [Linkedin](https://www.linkedin.com/in/gustavo-luiz-medeiros/)
 
 ## 🌐 Site para visualizar 
-Você pode visualizar o site clickando [AQUI](https://forpaymentsystem.vercel.app/)
+Você pode visualizar o site clicando [AQUI](https://forpaymentsystem.vercel.app/)
 
 ## :memo: Licença
 

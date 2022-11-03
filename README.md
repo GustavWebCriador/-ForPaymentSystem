@@ -1,4 +1,4 @@
-<h1 align="center"> Explorer Lab #01 </h1>
+<h1 align="center"> For Payment System </h1>
 
 <p align="center">
 </p>

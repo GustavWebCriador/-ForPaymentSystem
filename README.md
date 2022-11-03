@@ -50,4 +50,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat & Gustavo Luiz Medeiros :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥  Gustavo Luiz Medeiros 📱 [WhatsApp, aguardo seu contato](https://api.whatsapp.com/send?phone=5547984265359&text=)
